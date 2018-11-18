@@ -1,1 +1,1 @@
-# Hesaplamal-Geometri
+# Hesaplamalı-Geometri
